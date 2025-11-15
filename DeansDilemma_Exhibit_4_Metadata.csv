@@ -1,0 +1,19 @@
+Field Name,Description
+RegNo,Unique Identification Number/Roll Number
+Percent_SSC,Percentage (Marks) obtained in 10th Standard/Secondary School Certificate
+Board_SSC,Examination Board/Board of Education for 10th Standard
+Percent_HSC,Percentage (Marks) obtained in 12th Standard/Higher Secondary Certificate
+Board_HSC,Examination Board/Boards of Education for 12th Standard
+Stream_HSC,"Stream of Education: Commerce, Arts, Sciences"
+Percent_Degree,Percentage (marks) obtained in Bachelor’s Degree
+Course_Degree,Type of degree chosen for graduation
+Experience_Yrs,Number of years of prior work experience
+Entrance_Test,Type of entrance test appeared in
+Percentile_ET,Percentile obtained in entrance test
+Percent_MBA,Percentage obtained after completion of MBA
+Specialization_MBA,Subject specialization in/during MBA
+Marks_Communication,Marks obtained in communication
+Marks_Projectwork,Marks obtained in project work
+Marks_BOCA,Marks obtained in business-oriented computer applications
+Placement,Was the student placed via campus recruitment?
+Salary,Salary offered to the student
